@@ -6,8 +6,6 @@ export const styles = StyleSheet.create({
         alignSelf: 'flex-end',
         backgroundColor: theme.colors.secondary40,
         height: 1,
-        marginVertical: 31,
-        marginTop: 2,
-        width: '75%',
+        width: '78%',
     }
 });

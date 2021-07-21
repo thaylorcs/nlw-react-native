@@ -31,7 +31,8 @@ export const styles = StyleSheet.create({
         flex: 1,
     },
     image: {
-        backgroundColor: theme.colors.secondary50,
+        backgroundColor: theme.colors.secondary40,
+        borderColor: theme.colors.secondary50,
         borderRadius: 8,
         borderWidth: 1,
         height: 68,
